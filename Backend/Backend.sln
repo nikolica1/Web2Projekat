@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taxi.Api", "Store.Api\Taxi.Api.csproj", "{76267C5C-D881-47B3-B472-968393BDDACF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taxi.Core", "Store.Core\Taxi.Core.csproj", "{AC969DC7-BD0F-4915-9BB8-004EA80C72C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76267C5C-D881-47B3-B472-968393BDDACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76267C5C-D881-47B3-B472-968393BDDACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76267C5C-D881-47B3-B472-968393BDDACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76267C5C-D881-47B3-B472-968393BDDACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC969DC7-BD0F-4915-9BB8-004EA80C72C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC969DC7-BD0F-4915-9BB8-004EA80C72C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC969DC7-BD0F-4915-9BB8-004EA80C72C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC969DC7-BD0F-4915-9BB8-004EA80C72C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFC93624-2961-4B02-9A0E-64CDFEE2D837}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,70 @@
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\bin\Debug\net6.0\Store.Core.deps.json
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\bin\Debug\net6.0\Store.Core.runtimeconfig.json
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\bin\Debug\net6.0\Store.Core.dll
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\bin\Debug\net6.0\Store.Core.pdb
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.csproj.AssemblyReference.cache
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfoInputs.cache
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfo.cs
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.csproj.CoreCompileInputs.cache
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.dll
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\refint\Store.Core.dll
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.pdb
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.genruntimeconfig.cache
+C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\ref\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\bin\Debug\net6.0\Store.Core.deps.json
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\bin\Debug\net6.0\Store.Core.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\bin\Debug\net6.0\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\bin\Debug\net6.0\Store.Core.pdb
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\obj\Debug\net6.0\refint\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.pdb
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\Store-main\Backend\Store.Core\obj\Debug\net6.0\ref\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\bin\Debug\net6.0\Store.Core.deps.json
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\bin\Debug\net6.0\Store.Core.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\bin\Debug\net6.0\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\bin\Debug\net6.0\Store.Core.pdb
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\refint\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.pdb
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\ref\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\bin\Debug\net6.0\Store.Core.deps.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\bin\Debug\net6.0\Store.Core.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\bin\Debug\net6.0\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\bin\Debug\net6.0\Store.Core.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\refint\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web2 Store\Backend\Store.Core\obj\Debug\net6.0\ref\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\bin\Debug\net6.0\Store.Core.deps.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\bin\Debug\net6.0\Store.Core.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\bin\Debug\net6.0\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\bin\Debug\net6.0\Store.Core.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Store.Core.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Store.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Store.Core.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\refint\Store.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Store.Core.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Store.Core.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\ref\Store.Core.dll

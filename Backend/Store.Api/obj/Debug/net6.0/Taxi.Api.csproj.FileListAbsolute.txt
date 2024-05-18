@@ -1,0 +1,300 @@
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.exe
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.deps.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\MailKit.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\MimeKit.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Core.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.Taxi.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Taxi.Api.props
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Taxi.Api.props
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Taxi.Api.props
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\scopedcss\bundle\Taxi.Api.styles.css
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.csproj.CopyComplete
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\refint\Taxi.Api.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\ref\Taxi.Api.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Docker.DotNet.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.exe
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.deps.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Docker.DotNet.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\MailKit.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\MimeKit.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Taxi.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\bin\Debug\net6.0\Taxi.Core.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.Taxi.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Taxi.Api.props
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Taxi.Api.props
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Taxi.Api.props
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\scopedcss\bundle\Taxi.Api.styles.css
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.csproj.CopyComplete
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\refint\Taxi.Api.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Api\obj\Debug\net6.0\ref\Taxi.Api.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.exe
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.deps.json
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.runtimeconfig.json
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Api.pdb
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Docker.DotNet.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\MailKit.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Core.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\bin\Debug\net6.0\Taxi.Core.pdb
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.csproj.AssemblyReference.cache
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.AssemblyInfoInputs.cache
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.AssemblyInfo.cs
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.Taxi.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Taxi.Api.props
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Taxi.Api.props
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Taxi.Api.props
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\scopedcss\bundle\Taxi.Api.styles.css
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.csproj.CopyComplete
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\refint\Taxi.Api.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.pdb
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\Taxi.Api.genruntimeconfig.cache
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Api\obj\Debug\net6.0\ref\Taxi.Api.dll

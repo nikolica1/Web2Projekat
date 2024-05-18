@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Store.Api",
+    "\\Store.Api\\Controllers",
+    "\\Store.Api\\Request",
+    "\\Store.Api\\Request\\ArticleRequest",
+    "\\Store.Api\\Services",
+    "\\Store.Core",
+    "\\Store.Core\\DTOs",
+    "\\Store.Core\\DTOs\\UserDTOs"
+  ],
+  "SelectedNode": "\\Backend.sln",
+  "PreviewInSolutionExplorer": false
+}

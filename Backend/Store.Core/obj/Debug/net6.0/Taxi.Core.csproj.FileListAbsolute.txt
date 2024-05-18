@@ -1,0 +1,42 @@
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\bin\Debug\net6.0\Taxi.Core.deps.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\bin\Debug\net6.0\Taxi.Core.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\bin\Debug\net6.0\Taxi.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\bin\Debug\net6.0\Taxi.Core.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\refint\Taxi.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\ref\Taxi.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\bin\Debug\net6.0\Taxi.Core.deps.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\bin\Debug\net6.0\Taxi.Core.runtimeconfig.json
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\bin\Debug\net6.0\Taxi.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\bin\Debug\net6.0\Taxi.Core.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.csproj.AssemblyReference.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.AssemblyInfoInputs.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.AssemblyInfo.cs
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.csproj.CoreCompileInputs.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\obj\Debug\net6.0\refint\Taxi.Core.dll
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.pdb
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.genruntimeconfig.cache
+C:\Users\BOZO\Desktop\web2\web2 taxi\Web 2 taxi - Copy\Backend\Store.Core\obj\Debug\net6.0\ref\Taxi.Core.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\bin\Debug\net6.0\Taxi.Core.deps.json
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\bin\Debug\net6.0\Taxi.Core.runtimeconfig.json
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\bin\Debug\net6.0\Taxi.Core.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\bin\Debug\net6.0\Taxi.Core.pdb
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.csproj.AssemblyReference.cache
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.AssemblyInfoInputs.cache
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.AssemblyInfo.cs
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\refint\Taxi.Core.dll
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.pdb
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\Taxi.Core.genruntimeconfig.cache
+C:\Users\Nikola Bajagic\Desktop\ProjekatWeb\web2 taxi\Web 2 taxi\Backend\Store.Core\obj\Debug\net6.0\ref\Taxi.Core.dll
